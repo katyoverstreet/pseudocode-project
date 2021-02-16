@@ -40,26 +40,27 @@ user waits for water to become heated
 WHILE water is below a certain temperature, flash power button light
 //this shows that the machine is heating the water
 
-IF water is 
+IF water is finished heating the lights will stay on but stop flashing
 
+IF the kcup holder is open, continue to next step, else use the handle to open the top where the kcup goes.
 
+INPUT coffee cup of users choice.
 
+When top is closed, light up cup size buttons.
 
-4. When water is finished heating, the lights on the size buttons will light up and stay on.
-5. If the area where you put the coffee "cup" is open, then continue with next step. 
-    * If not, then open it.
-6. Choose what type of coffee you would like.
-7. insert chosen coffee cup into coffee cup area.
-8. Close lid.
-9. place coffee mug underneath spout where coffee will come out.
-10. Choose amount of coffee desired (small, medium, large). 
-    * Press the button representing desired size.
-11. Wait for coffee to fill your cup.
-12. When the machine is finished making coffee, turn it off.
+User will place coffee mug on drip tray under the spout.
 
+Wait for the user to press the button for the amount of coffee they want
 
+Once the button is pressed, begin the brewing process.
 
-Stir coffee
+The user will wait until the machine is finished filling the cup.
+
+WHen the machine is finished, press the power button once to turn machine off.
+
+The user will then select which flavors they want to add to their mug.
+
+After adding the flavours, stir coffee
 
 Let it cool off (normally about 5 minutes)
 
